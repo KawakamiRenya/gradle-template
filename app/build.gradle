@@ -35,12 +35,8 @@ application {
     // Define the main class for the application.
     mainClass = 'gradle.template.App'
 }
-javadoc {
-    destinationDir = file("../docs/javadoc")
-}
+
 tasks.named('test') {
     // Use JUnit Platform for unit tests.
     useJUnitPlatform()
-    reports.html.outputLocation = file("../docs/test-reports")
-
 }
