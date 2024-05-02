@@ -8,10 +8,10 @@ public class App {
         return "Hello World!";
     }
     /**
-     * “ñ‚Â‚Ì®”‚Ì‡Œv‚ğ•Ô‚µ‚Ü‚·
-     * @param a ˆø”1
-     * @param b ˆø”2
-     * @return ˆø”‚Ì‡Œv’l
+     * äºŒã¤ã®æ•´æ•°ã®åˆè¨ˆã‚’è¿”ã—ã¾ã™
+     * @param a å¼•æ•°1
+     * @param b å¼•æ•°2
+     * @return å¼•æ•°ã®åˆè¨ˆå€¤
      */
     public int addNum(final int a, final int b) {
         return a+b;
