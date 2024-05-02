@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"gradle.template"},{"l":"すべてのパッケージ","u":"allpackages-index.html"}];updateSearchResults();
