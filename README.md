@@ -2,8 +2,6 @@
 [![Javadoc](https://img.shields.io/badge/JavaDoc-Online-green)](https://kawakamirenya.github.io/gradle-template/app/build/docs/javadoc/)
 
 # gradle-template
-## Javadoc
-- [アプリケーションのJavadoc](https://kawakamirenya.github.io/gradle-template/docs/javadoc/gradle/template/package-summary.html)
 
 ## Test
 - [Unit test](https://kawakamirenya.github.io/gradle-template/docs/test-reports/index.html)
