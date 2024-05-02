@@ -14,7 +14,7 @@ public class App {
      * @return 引数の合計値
      */
     public int addNum(final int a, final int b) {
-        return a-b;
+        return a+b;
     }
 
     public static void main(String[] args) {
